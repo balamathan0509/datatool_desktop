@@ -62,6 +62,10 @@ flutter run -d windows
 You can also try the web version of this application:
 https://balamathan0509.github.io/datatool_desktop/
 
+---
+
+*Last updated: December 2025*
+
 ## Technologies Used
 
 - **Flutter**: Cross-platform UI framework
