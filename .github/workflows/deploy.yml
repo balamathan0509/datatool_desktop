@@ -14,7 +14,7 @@ jobs:
       uses: subosito/flutter-action@v2
       
     - name: Build web app
-      run: flutter build web --base-href "/datatool_desktop/"
+      run: flutter build web --base-href "/datatool_desktop/" --web-renderer canvaskit
       
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
